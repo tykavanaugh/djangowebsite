@@ -1,0 +1,323 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"user",
+				"userInput"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/Djangosite/manage.py",
+			"settings":
+			{
+				"buffer_size": 666,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/BlackBox/Desktop/DjangoSite",
+		"/Users/BlackBox/Desktop/DjangoSite/src",
+		"/Users/BlackBox/Desktop/DjangoSite/src/Djangosite"
+	],
+	"file_history":
+	[
+		"/Users/BlackBox/Desktop/Personal Website/2117_infinite_loop/index.html",
+		"/Users/BlackBox/Desktop/Personal Website/2117_infinite_loop/html5-boilerplate_v8.0.0/index.html",
+		"/Users/BlackBox/Desktop/Stop the bleed notes",
+		"/Users/BlackBox/Desktop/Intel Cycle",
+		"/Users/BlackBox/Desktop/Sales Cycle",
+		"/Users/BlackBox/Desktop/Stryker",
+		"/Users/BlackBox/Desktop/Stryker Job",
+		"/Users/BlackBox/Desktop/Styrker What I want prep",
+		"/Users/BlackBox/Desktop/Max Webdev/site.html",
+		"/Users/BlackBox/Desktop/Max Webdev/stylesheet.css",
+		"/Users/BlackBox/Desktop/Osint Machine/Share/OSINT/VMIfc",
+		"/Users/BlackBox/Desktop/OSINT/VMIfc",
+		"/Users/BlackBox/Desktop/Osint Machine/Share/OSINT/Norfolk Patriot Alias",
+		"/Users/BlackBox/Desktop/OSINT/Norfolk Patriot Alias",
+		"/Users/BlackBox/Desktop/OSINT/Tidewater Militia Members",
+		"/Users/BlackBox/Desktop/OSINT/Tom Aragon",
+		"/Users/BlackBox/Desktop/OSINT/Madeline Conger AKA Molly Conger",
+		"/Users/BlackBox/Desktop/OSINT/fusionusers",
+		"/Users/BlackBox/Library/Application Support/Steam/steamapps/common/MountBlade Warband/Modules/Red Wars II DEMO/module.ini",
+		"/Users/BlackBox/Desktop/OSINT/Chris Hill",
+		"/Users/BlackBox/Library/Application Support/Steam/steamapps/workshop/content/48700/2226228625/module.ini",
+		"/Users/BlackBox/Desktop/Harvest/harvest.txt",
+		"/Users/BlackBox/Library/Application Support/Steam/steamapps/common/MountBlade Warband/Modules/Viking Conquest/module.ini",
+		"/Users/BlackBox/Downloads/harvest.txt",
+		"/Users/BlackBox/Library/Application Support/Steam/steamapps/common/MountBlade Warband/Modules/Merc Camps/module.ini",
+		"/Users/BlackBox/Desktop/bandit17.key",
+		"/Users/BlackBox/Desktop/LCS v4.12.55 NoMusic 2/README.md",
+		"/Users/BlackBox/Documents/Paradox Interactive/Hearts of Iron IV/save games/KUR_2004_03_11_11.hoi4",
+		"/Users/BlackBox/Desktop/noTokenSH/discordSHbot.py",
+		"/Users/BlackBox/Documents/Paradox Interactive/Hearts of Iron IV/save games/KUR_2004_03_08_12.hoi4",
+		"/Users/BlackBox/Library/Application Support/Steam/steamapps/common/MountBlade Warband/Modules/Nova Aetus/config.ini",
+		"/Users/BlackBox/Library/Application Support/Steam/steamapps/common/MountBlade Warband/Modules/Nova Aetus/module.ini",
+		"/Users/BlackBox/Library/Application Support/Steam/steamapps/common/MountBlade Warband/Modules/RENAISSANCE/module.ini",
+		"/Users/BlackBox/Library/Application Support/Steam/steamapps/common/MountBlade Warband/Modules/The Red Wars 1.6 Rework/module.ini",
+		"/Users/BlackBox/Downloads/Untitled.py",
+		"/Users/BlackBox/Library/Application Support/Steam/steamapps/common/MountBlade Warband/Modules/The American Civil War Mod Revived v1.5/module.ini",
+		"/Users/BlackBox/Library/Application Support/Steam/steamapps/workshop/content/48700/498482336/module.ini",
+		"/Users/BlackBox/Library/Application Support/Steam/steamapps/workshop/content/48700/1302156823/module.ini",
+		"/Users/BlackBox/Library/Application Support/Steam/steamapps/workshop/content/48700/368452861/module.ini",
+		"/Users/BlackBox/Library/Application Support/Steam/steamapps/workshop/content/48700/1518700104/module.ini",
+		"/Users/BlackBox/Library/Application Support/Steam/steamapps/workshop/content/48700/1186190777/module.ini",
+		"/Users/BlackBox/Library/Application Support/Steam/steamapps/common/MountBlade Warband/Modules/Viking Conquest/variables.txt",
+		"/Users/BlackBox/Desktop/saveTV1.5.dat",
+		"/Users/BlackBox/Terravitae 1.494/compile",
+		"/Users/BlackBox/Terravitae 1.494/INSTALL",
+		"/Users/BlackBox/Downloads/Terravitae 1.493/Makefile.am",
+		"/Users/BlackBox/Downloads/Terravitae 1.493/Makefile",
+		"/Users/BlackBox/Downloads/Terravitae 1.493/src/Makefile.am",
+		"/Users/BlackBox/Desktop/Terravitae 1.493/README",
+		"/Users/BlackBox/Desktop/Terravitae 1.493/compile",
+		"/Users/BlackBox/Downloads/Terravitae 1.493/README",
+		"/Users/BlackBox/Library/Application Support/Sub Rosa/config.txt",
+		"/Users/BlackBox/Desktop/df_osx/raw/objects/entity_default.txt",
+		"/Users/BlackBox/Documents/Paradox Interactive/Europa Universalis IV/save games/editthis.eu4",
+		"/Users/BlackBox/Downloads/Cataclysm-DDA-master/Cataclysm-DDA.sublime-project",
+		"/Users/BlackBox/Desktop/siech9Ooza1ud1ej /unified-relay-osx",
+		"/Users/BlackBox/Desktop/test.html",
+		"/Users/BlackBox/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Mods/Core/Defs/Misc/DifficultyDefs/Difficulties.xml",
+		"/Users/BlackBox/Library/Application Support/Steam/steamapps/common/RimWorld/RimWorldMac.app/Mods/Core/Defs/Storyteller/Storytellers.xml",
+		"/Users/BlackBox/Desktop/siech9Ooza1ud1ej /unified.json",
+		"/Users/BlackBox/Desktop/Spooky Relay/unified-relay-osx",
+		"/Users/BlackBox/Desktop/Spooky Relay/unified.json",
+		"/Users/BlackBox/Downloads/siech9Ooza1ud1ej/unified-relay-osx",
+		"/Users/BlackBox/Downloads/siech9Ooza1ud1ej/unified.json",
+		"/Users/BlackBox/Downloads/eve-intel-deamon-master/system/config.php",
+		"/Users/BlackBox/Downloads/Base.xml",
+		"/Users/BlackBox/Downloads/RES-2018-3-20-1521544495-5_10_3.resbackup",
+		"/Users/BlackBox/Desktop/Eve_Data_Analysis/eve-market-strategies-master/code/evekit/marketdata/market_history.py",
+		"/Users/BlackBox/Desktop/Eve_Data_Analysis/eve-market-strategies-master/code/evekit/util/__init__.py",
+		"/Users/BlackBox/Library/Jupyter/eve-market-strategies-master/build/metadata.xml",
+		"/Users/BlackBox/Desktop/df_osx/data/init/init.txt",
+		"/Users/BlackBox/Desktop/df_osx/data/init/d_init.txt",
+		"/Users/BlackBox/Desktop/PythonScripts/testtesttest.py",
+		"/Users/BlackBox/Downloads/RES-2017-12-6-1512555396-5_8_6.resbackup",
+		"/Users/BlackBox/Downloads/Machine+Learning+Video+worksheet.py",
+		"/Users/BlackBox/Library/Application Support/Steam/steamapps/common/MountBlade Warband/Modules/Star WArs/module.ini",
+		"/Users/BlackBox/Library/Application Support/Steam/steamapps/common/MountBlade Warband/Modules/Chile/module.ini",
+		"/Users/BlackBox/Desktop/PythonScripts/Python Snake Clone.py",
+		"/Users/BlackBox/Library/Application Support/Steam/steamapps/common/MountBlade Warband/Modules/The Red Wars 1.88/module.ini",
+		"/Users/BlackBox/Library/Application Support/Steam/steamapps/common/MountBlade Warband/Modules/Diplo4/module.ini",
+		"/Users/BlackBox/Library/Application Support/Steam/steamapps/common/MountBlade Warband/Modules/steam_workshop_items.xml",
+		"/Users/BlackBox/python3",
+		"/Users/BlackBox/Desktop/PythonScripts/MadLibs Chap 8 ATBS",
+		"/Users/BlackBox/Desktop/PythonScripts/Prawscript1Neoliberal.py",
+		"/Users/BlackBox/Desktop/PythonScripts/posts_replied_to.txt",
+		"/Users/BlackBox/Desktop/PythonScripts/Chapter 7 ATBS Challenges",
+		"/Users/BlackBox/Downloads/prisoner.py",
+		"/Users/BlackBox/Desktop/PythonScripts/primecheck.py",
+		"/Users/BlackBox/Desktop/PythonScripts/test1",
+		"/Users/BlackBox/Library/Application Support/Sublime Text 3/Packages/User/sysanaconda.sublime-build",
+		"/Users/BlackBox/.bash_profile",
+		"/Users/BlackBox/.profile",
+		"/Users/BlackBox/Downloads/CaravanSpeedFix-1.0/CaravanSpeedFix/Caravan_PathFollower.cs",
+		"/Users/BlackBox/Documents/lesson1reflections"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/Djangosite/manage.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 666,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/sysanaconda.sublime-build",
+	"project": "Djangosite.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
